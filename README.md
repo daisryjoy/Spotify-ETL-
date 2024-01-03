@@ -9,6 +9,8 @@ Setup Spotify API
 Setup AWS S3 buckets 
 
 <img width="725" alt="image" src="https://github.com/daisryjoy/Spotify-ETL-/assets/43154657/d070c151-4498-4611-96d0-a7b7ff993f31">
+<img width="721" alt="image" src="https://github.com/daisryjoy/Spotify-ETL-/assets/43154657/1dde2684-a478-437d-94bc-da320797e36b">
+
 
 <img width="715" alt="image" src="https://github.com/daisryjoy/Spotify-ETL-/assets/43154657/f392adf0-6ee0-4f59-a62f-c486efba29c9">
 
